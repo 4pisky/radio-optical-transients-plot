@@ -18,6 +18,10 @@ A few notes on the package:
     This is a leftover from our original ambition to collect X-ray, IR and all optical fluxes.
     Pandas is used in this updated version so it's possible to only included required columns, however new functions have been written to allow the addition of data via DataFrames (see the notebook example).
     Track inputs are slightly different, see the section below.
+* The AB magnitude options can be a bit confusing.
+    The AB requirement was a late decision so previously the AB magnitudes were picked out by listing them when running the old script.
+    However, when switching to requiring AB magnitudes this became a list of sources that did **not** require converting.
+    Hence why some of the AB magnitude lists and options may seem counter-intuitive.
 * It is designed to also be notebook friendly.
 * Please refer to the paper for details on the data itself.
 
