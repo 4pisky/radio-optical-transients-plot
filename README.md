@@ -66,11 +66,12 @@ This script, installed with the package and accessible from the command line, co
 
 ```
 radio_optical_figures -h
-usage: radio_optical_figures [-h] --figure {1,2,3,4,5,6,7,8,9,a1,a2,a3,a4} [-s] [-f {png,pdf}]
+usage: radio_optical_figures [-h] --figure {1,2,3,4,5a,5b,6a,6b,6c,6d,7,8a,8b,9,a1a,a1b,a2,a3,a4} [-s]
+                             [-f {png,pdf}]
 
 optional arguments:
   -h, --help            show this help message and exit
-  --figure {1,2,3,4,5,6,7,8,9,a1,a2,a3,a4}
+  --figure {1,2,3,4,5a,5b,6a,6b,6c,6d,7,8a,8b,9,a1a,a1b,a2,a3,a4}
                         Specify what figure to produce. (default: None)
   -s, --save            Use this option to automatically save the figures instead of displaying. (default: False)
   -f {png,pdf}, --save-format {png,pdf}
