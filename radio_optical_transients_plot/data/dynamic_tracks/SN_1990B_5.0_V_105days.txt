@@ -1,0 +1,6 @@
+Name	Date	B	B Error	V	V Error	R	R Error	I	I Error	RadioFlux	RadioFlux Error	RadioFreq
+SN 1990B	61.0	0	0	17.1	0.02	0	0	0	0	1.01	0.09	5.0
+SN 1990B	66.0	0	0	17.25	0.02	0	0	0	0	1.04	0.08	5.0
+SN 1990B	74.0	0	0	17.37	0.06	0	0	0	0	0.84	0.07	5.0
+SN 1990B	83.0	0	0	17.61	0.02	0	0	0	0	0.74	0.07	5.0
+SN 1990B	166.0	0	0	19.51	0.02	0	0	0	0	0.25	0.06	5.0
