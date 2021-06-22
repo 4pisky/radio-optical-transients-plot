@@ -2,7 +2,7 @@
 
 This package contains all the code required to reproduce, and interact with, the plots found in the [Stewart et al. 2018](https://ui.adsabs.harvard.edu/abs/2018MNRAS.479.2481S/abstract) publication *On the optical counterparts of radio transients and variables*.
 
-![Figure 1]()
+![Figure 1](https://github.com/4pisky/radio-optical-transients-plot/blob/main/examples/ro_figure_1.png)
 
 ## Notes
 
