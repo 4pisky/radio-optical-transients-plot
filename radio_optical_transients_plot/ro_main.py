@@ -5,10 +5,9 @@ This script contains the main plotting classes for the radio optical plots.
 This file can be imported as a module and contains the following
 classes:
 
-    * plotlines - Plots the distance background lines.
-    * plotboxpoints - Gets the plotting points for the QSO box.
-    * addtracklabels - Adds labels to a dynamic track.
-    * extinction_arrow - Draws the extinction arrow on an axes.
+    * RadioOpticalData: Object handling the data of the plot.
+    * RadioOpticalPlot: Plotting non-track plots and histograms.
+    * RadioOpticalTrackPlot: Plotting for track plots.
 """
 
 import matplotlib.font_manager as fm
